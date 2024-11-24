@@ -1,1 +1,3 @@
 Looking at factors that best predict if someone is going to default on their credit (VS)
+
+Observation of how the population structure has changed in Swiss Municipalities over the last couple of years (karl aschwanden)
